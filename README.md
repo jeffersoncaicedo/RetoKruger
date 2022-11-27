@@ -25,7 +25,7 @@
 </p>
 <h1>Ejecución del poryecto</h1>
 <p>
-  Para ejecutar el poryecto, en la terminal de Windows ejecutar el comando: 
+  Para ejecutar el poryecto, en la terminal de Windows ejecutar el comando:<br> 
   <code>
     mvnw spring-boot:run
   </code>
