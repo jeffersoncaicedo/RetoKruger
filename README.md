@@ -3,9 +3,7 @@
 <p>
   Para realizar el reto planetado se consideró el siguiente modelo
 </p>
-<p>
-  <img scr="/images/modelo.png">
-</p>
+<img src="/images/modelo.png">
 <h1>Software Requerido</h1>
 <p>
   <ol>
