@@ -20,9 +20,9 @@
 <p>
   Para manejar la base de datos se utilizó PostgreSQL con el software pgAdmin, con las siguientes credenciales:
   <code>
-    username: postgres
-    password: 12345678
-    url: jdbc:postgresql://localhost:5432/postgres
+    <p>username: postgres</p>
+    <p>password: 12345678</p>
+    <p>url: jdbc:postgresql://localhost:5432/postgres</p>
   </code>
 </p>
 <h1>Ejecución del poryecto</h1>
